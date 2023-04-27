@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdimohammadi98125&label=Profile%20views&color=0e75b6&style=flat" alt="mahdimohammadi98125" /> </p>
 <img src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif" alt="coding gif" align="right" width="400"/>
     
-- 🌱 I’m currently learning **HTML, CSS**
+- 🌱 I’m currently learning **React js**
 
 - 💬 Ask me about **HTML, CSS**
 
