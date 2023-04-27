@@ -10,7 +10,7 @@
     
 - 🌱 I’m currently learning **React js**
 
-- 💬 Ask me about **HTML, CSS, Javascript, Bootstrap, React**
+- 💬 Ask me about **HTML, CSS, Bootstrap,tailwinds, Javascript, React**
 
 - 📫 How to reach me **mahdi.mohammadi012021@gmail.com**
 
