@@ -1,5 +1,5 @@
 
-<img src="https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif" alt="">
+<img src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" alt="web-development gif">
 <h1 align="center">Hi 👋, I'm Mahdi Mohammadi</h1>
 <h3 align="center">A passionate frontend developer from Afghanistan</h3>
 
