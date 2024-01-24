@@ -1,13 +1,14 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]
+![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
+
 <h1 align="center">Hi 👋, I'm Mahdi Mohammadi</h1>
 <h3 align="center">A passionate frontend developer from Afghanistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdimohammadi98125&label=Profile%20views&color=0e75b6&style=flat" alt="mahdimohammadi98125" /> </p>
-<img src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif" alt="coding gif" align="right" width="400"/>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
     
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap,tailwinds, Javascript, React**
+- 💬 Ask me about **HTML, CSS, Bootstrap,tailwinds, Javascript, React, Next.js**
 
 - 📫 How to reach me **mahdi202201.mohammadi@gmail.com**
 
@@ -15,28 +16,69 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/user:19864534" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:19864534" height="30" width="40" /></a>
-<a href="https://fb.com/haji m ehdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="haji m ehdi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mahdi-mohammadi-1b6395260/" target="blank">
+<img src="./assets/linkedin-svgrepo-com.svg" width= "20" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-<h3 align="left">My Project Lists</h3>
+<p>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+<img src="./assets/html.svg" alt="html" width="40" height="40"/> 
+</a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+<img src="./assets/css.svg" alt="css" width="40" height="40"/> 
+</a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+<img src="./assets/tailwindcss.svg" alt="tailwind" width="40" height="40"/> 
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+<img src="./assets/javascript.svg" alt="javascript" width="40" height="40"/> 
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+<img src="./assets/react.svg" alt="react" width="40" height="40"/> 
+</a> 
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+<img src="./assets/nextjs.svg" alt="nextjs" width="40" height="40"/>
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+<img src="./assets/typescript.svg" alt="typescript" width="40" height="40"/> 
+</a>
+</a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"> 
+<img src="./assets/github.svg" alt="github" width="40" height="40"/> 
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+<img src="./assets/git.svg" alt="git" width="40" height="40"/> 
+</a>
+</p>
 
-| No  | Project Name     | Github Repository                                                               | View Online                                                                |
-| --- | ---------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| 11  | Omni-food        | [repository](https://github.com/MahdiMohammadi98125/OMNI-FOOD-OPTIMIZATION)     | [visit](https://omnifood-mahdi98125.netlify.app/)                          |
-| 10  | nexter-app       | [repository](https://github.com/MahdiMohammadi98125/Nexter-Project)             | [visit](https://nexter-project-5dfc1e.netlify.app)                         |
-| 9   | Trillo           | [repository](https://github.com/MahdiMohammadi98125/Trillo-Project)             | [visit](https://trillo-project-d13a90.netlify.app)                         |
-| 8   | Guess the number | [repository](https://github.com/MahdiMohammadi98125/Guess-the-number)           | [visit](https://guess-number-8b1de8.netlify.app)                           |
-| 7   | pig game         | [repository](https://github.com/MahdiMohammadi98125/pig-game)                   | [visit](https://pig-game-435c45.netlify.app)                               |
-| 6   | bankist website  | [repository](https://github.com/MahdiMohammadi98125/Bankist-Website)            | [visit](https://bankist-website-4cc7be.netlify.app)                        |
-| 5   | mapty            | [repository](https://github.com/MahdiMohammadi98125/Mapty)                      | [visit](https://mapty-project-2d438f.netlify.app)                          |
-| 4   | online-service   | [repository](https://github.com/MahdiMohammadi98125/online-service)             | [visit](https://online-service-42520e.netlify.app)                         |
-| 3   | grocery-website  | [repository](https://github.com/MahdiMohammadi98125/Grocery-website)            | [visit](https://grocery-website-amber.vercel.app/)                         |
-| 2   | drum-kit         | [repository](https://github.com/MahdiMohammadi98125/Drum-Kit)                   | [visit](https://drum-kit-mu-wine.vercel.app/)                              |
-| 1   | portfolio        | [repository](https://github.com/MahdiMohammadi98125/Personal-Portfolio-Webpage) | [visit](https://mahdimohammadi98125.github.io/Personal-Portfolio-Webpage/) |
+<br>
+
+<details>
+<summary>My Projects</summary>
+
+| No  | Project Name    | Github Repository                                                           | View Online                                            |
+| --- | --------------- | --------------------------------------------------------------------------- | ------------------------------------------------------ |
+| 16  | Issue-tracker   | [repository](https://github.com/MahdiMohammadi98125/issue-tracker)          | [visit](https://issue-tracker-seven-black.vercel.app/) |
+| 15  | Game-hub        | [repository](https://github.com/MahdiMohammadi98125/game-hub)               | [visit](https://game-hub-tau-gules.vercel.app/)        |
+| 14  | Expense tracker | [repository](https://github.com/MahdiMohammadi98125/expense-tracker-app)    | [visit](https://expense-tracker-app-f390.netlify.app/) |
+| 13  | Meetups         | [repository](https://github.com/MahdiMohammadi98125/Meetup-project)         | [visit](https://meetup-project-3b48b6.netlify.app/)    |
+| 12  | online service  | [repository](https://github.com/MahdiMohammadi98125/online-service)         | [visit](https://online-service-42520e.netlify.app)     |
+| 11  | Mapty           | [repository](https://github.com/MahdiMohammadi98125/Mapty)                  | [visit](https://mapty-seven-pi.vercel.app)             |
+| 10  | eat-n-split     | [repository](https://github.com/MahdiMohammadi98125/eat-n-split)            | [visit](https://eat-n-split-40b333.netlify.app/)       |
+| 09  | css-variables   | [repository](https://github.com/MahdiMohammadi98125/css-variables)          | [visit](https://css-variables-theta.vercel.app/)       |
+| 08  | Drum kit        | [repository](https://github.com/MahdiMohammadi98125/Drum-Kit)               | [visit](https://drum-kit-mu-wine.vercel.app/)          |
+| 07  | Pig-Game        | [repository](https://github.com/MahdiMohammadi98125/pig-game)               | [visit](https://pig-game-435c45.netlify.app)           |
+| 06  | Guess number    | [repository](https://github.com/MahdiMohammadi98125/Guess-the-number)       | [visit](https://guess-number-8b1de8.netlify.app)       |
+| 05  | Bankist Website | [repository](https://github.com/MahdiMohammadi98125/Bankist-Website)        | [visit](https://bankist-website-4cc7be.netlify.app)    |
+| 04  | Nexter          | [repository](https://github.com/MahdiMohammadi98125/Nexter-Project)         | [visit](https://nexter-project-5dfc1e.netlify.app)     |
+| 03  | Trillo          | [repository](https://github.com/MahdiMohammadi98125/Trillo-Project)         | [visit](https://trillo-project-d13a90.netlify.app)     |
+| 02  | Grocery-website | [repository](https://github.com/MahdiMohammadi98125/Grocery-website)        | [visit](https://grocery-website-amber.vercel.app/)     |
+| 01  | Omnifood        | [repository](https://github.com/MahdiMohammadi98125/OMNI-FOOD-OPTIMIZATION) | [visit](https://omnifood-mahdi98125.netlify.app/)      |
+
+</details>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdimohammadi98125&show_icons=true&locale=en&layout=compact" alt="mahdimohammadi98125" /></p>
 
