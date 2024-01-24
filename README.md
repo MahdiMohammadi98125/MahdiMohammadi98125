@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mahdi-mohammadi-1b6395260/" target="blank">
-<img src="./assets/linkedin-svgrepo-com.svg" width= "30" />
+<img src="./assets/linkedin.svg" width= "30" />
 </a>
 </p>
 
