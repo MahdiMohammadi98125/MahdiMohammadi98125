@@ -1,4 +1,4 @@
-![MasterHead] <img  alt="Coding"  src="./assets/programming-banner.gif">
+<img  alt="Coding"  src="./assets/programming-banner.gif">
 
 <h1 align="center">Hi 👋, I'm Mahdi Mohammadi</h1>
 <h3 align="center">A passionate frontend developer from Afghanistan</h3>
