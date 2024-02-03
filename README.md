@@ -16,10 +16,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mahdi-mohammadi-1b6395260/" target="blank" title="linkedin">
+<a href="https://www.linkedin.com/in/mahdi-mohammadi-1b6395260/" target="_blank" title="linkedin">
 <img src="./assets/linkedin.svg" width= "30" />
 </a>
-<a href="https://mahdi-portfolio.vercel.app/" title="portfolio" href="blank">
+<a href="https://mahdi-portfolio.vercel.app/" title="portfolio" target="_blank">
     <img src="./assets/portfolio.jpg" width="30"  height="30" style="border-radius: 30px;"/>
 </a>
 </p>
